@@ -1,5 +1,10 @@
-## 静态模版文件
->>ALIYUN TEMPLATE VIEWS
-![](https://github.com/yuanhao2015/static_template_file/tree/master/images/aliyun.png) 
->>INSPINIA TEMPLATE VIEWS
-![](https://github.com/yuanhao2015/static_template_file/tree/master/images/inspinia_admin.png) 
+<html>
+<body>
+静态模版文件
+图例如下
+1 ALIYUN TEMPLATE
+<img src="images/aliyun.png"><br/>
+2 INSPINIA ADMIN TEMPLATE
+<img src="images/inspinia_admin.png"><br/>
+</body>
+</html>
